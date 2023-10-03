@@ -1,0 +1,6 @@
+[submodule "WareHouse/pr_viewer_1_DefaultOrganization_20231003035722"]
+	path = WareHouse/pr_viewer_1_DefaultOrganization_20231003035722
+	url = ./WareHouse/pr_viewer_1_DefaultOrganization_20231003035722
+[submodule "WareHouse/basic_site_1_DefaultOrganization_20231003042024"]
+	path = WareHouse/basic_site_1_DefaultOrganization_20231003042024
+	url = ./WareHouse/basic_site_1_DefaultOrganization_20231003042024
